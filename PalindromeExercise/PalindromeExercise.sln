@@ -1,9 +1,12 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeExercise", "PalindromeExercise\PalindromeExercise.csproj", "{1613DB97-4683-4127-A889-0969F895EA1D}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeExercise", "PalindromeExercise\PalindromeExercise.csproj", "{1613DB97-4683-4127-A889-0969F895EA1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeExerciseTests", "PalindromeExerciseTests\PalindromeExerciseTests.csproj", "{CF3661CD-692A-4BCE-8CA3-6C5A5EB26431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeExerciseTests", "PalindromeExerciseTests\PalindromeExerciseTests.csproj", "{CF3661CD-692A-4BCE-8CA3-6C5A5EB26431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleForPalindrome", "ExampleForPalindrome\ExampleForPalindrome.csproj", "{2774CD13-42FD-4893-9E36-DE40CE276728}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,5 +22,15 @@ Global
 		{CF3661CD-692A-4BCE-8CA3-6C5A5EB26431}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF3661CD-692A-4BCE-8CA3-6C5A5EB26431}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF3661CD-692A-4BCE-8CA3-6C5A5EB26431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2774CD13-42FD-4893-9E36-DE40CE276728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2774CD13-42FD-4893-9E36-DE40CE276728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2774CD13-42FD-4893-9E36-DE40CE276728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2774CD13-42FD-4893-9E36-DE40CE276728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D3AAC37-4A59-49B7-9410-52EA7CF20791}
 	EndGlobalSection
 EndGlobal
